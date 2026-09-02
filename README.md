@@ -26,8 +26,8 @@ I am currently targeting opportunities such as:
 - Associate Data Analyst
 - Junior Data Analyst
 - Business Intelligence Analyst
-- Reporting Analyst
 - Power BI Analyst
+- Reporting Analyst
 - Operations / Procurement Analyst
 
 ---
